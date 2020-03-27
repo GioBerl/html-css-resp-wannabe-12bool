@@ -46,6 +46,8 @@
 
 
     .col-lg-offset-1 {margin-left: calc((100% / 12)*1);}
+    /* TERRIBILE? */
+    .col-lg-offset-1-5 {margin-left: calc((100% / 12)*1.5);}
     .col-lg-offset-2 {margin-left: calc((100% / 12)*2);}
     .col-lg-offset-3 {margin-left: calc((100% / 12)*3);}
     .col-lg-offset-4 {margin-left: calc((100% / 12)*4);}
